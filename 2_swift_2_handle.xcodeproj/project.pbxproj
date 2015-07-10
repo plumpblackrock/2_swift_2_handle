@@ -351,6 +351,7 @@
 				INFOPLIST_FILE = 2_swift_2_handle/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -361,6 +362,7 @@
 				INFOPLIST_FILE = 2_swift_2_handle/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -417,6 +419,7 @@
 				466F5A581B4DD7340097ABB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		466F5A591B4DD7340097ABB5 /* Build configuration list for PBXNativeTarget "2_swift_2_handleTests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +428,7 @@
 				466F5A5B1B4DD7340097ABB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
